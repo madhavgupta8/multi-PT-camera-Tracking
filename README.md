@@ -13,10 +13,3 @@ Integral controller is used to track the target. Moreover, the concept of leadin
 lagging sensor is defined in the report on the basis of which the tracking cases are
 defined.
 
-## Usage
-
-Open file NLMPC_demo.m and run it using MATLAB
-
-### Try
-
-Change Vx and Vy for different use cases
